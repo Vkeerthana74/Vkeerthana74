@@ -1,5 +1,5 @@
 <h1 align="center">Hey Glad to see you Here👋 It's me Keerthana 👩‍💻</h1>
-<h3 align="center">DevOps Engineer @ Hexaware Technologies 💙 Entry-Level DevOps Enthusiast ♾️ | Eager to Drive Innovation and Automation 💡</h3>
+<h3 align="center">DevOps Engineer💙 Entry-Level DevOps Enthusiast ♾️ | Eager to Drive Innovation and Automation 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkeerthana74&label=Profile%20views&color=0e75b6&style=flat" alt="vkeerthana74" /> </p>
 
